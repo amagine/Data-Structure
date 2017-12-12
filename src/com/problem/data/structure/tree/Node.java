@@ -74,7 +74,7 @@ public class Node
 			left.printInOrder();
 		}
 		
-		System.out.println(data);
+		System.out.print(data + " ");
 		
 		if (right != null)
 		{
